@@ -10,6 +10,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "homepage": "https://dzemite.github.io/angular-app/",
   "private": true,
   "dependencies": {
     "@angular/animations": "^4.2.4",
