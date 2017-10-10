@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# AngularTrening
+# AngularApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
@@ -26,6 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-# angular-app
->>>>>>> 04e50f5c7da297aebcb7512ca6df2ccda54b2b89
